@@ -1,0 +1,17 @@
+body 
+{
+    background-color: navy;
+}
+h1
+{
+    color: navajowhite;
+    text-align: center;
+}
+p
+{
+    color: aliceblue;
+}
+a,li,ol
+{
+    color: aliceblue;
+}
